@@ -1,5 +1,27 @@
-## Hi there 👋
+## Hi there 👋, my name is Logan Blumka
 
+## About me
+##### ![](https://komarev.com/ghpvc/?username=LoganBlukma&label=PROFILE+VIEWS)
+##### I'm an undergraduate Computer Science major and a Mathematical Science Cyber Security minor from the U.S., interested in working on a variety of projects. I'm currently a part of a couple of projects, one of them being a research project at MTU, but that doesn't stop me from being interested in starting or joining new ones! When I'm not grinding away at bugs or writing new code, I can be found playing a variety of online video games (LoL, Overwatch, etc)
+## 🔭 I’m currently working on ...
+- [Space Trash](https://cserg.cs.mtu.edu/projects/space_trash/index.html), a game that aims to aid Alzheimers disease research by recreating the Object Hit and Avoid (OHA) task from the KINARM as a downloadable package.
+- A Discord media bot that uploads the newest video detected of a chosen YouTuber into a Discord channel
+
+## :computer: Languages I've worked with in the past...
+- Java
+- C99
+- MIPS
+- SQL
+
+## 🌱 I’m currently learning ...
+- HTML
+- PHP
+- GDScript
+- Python
+
+## :hammer: I contributed to...
+- TENacity, a small 2D platformer game programmed in GDScript
+- An [Online Store Webpage](https://github.com/LoganBlumka/online_store_web_page) using PHP and HTML using a SQL data base to store information
 <!--
 **LoganBlumka/loganblumka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
