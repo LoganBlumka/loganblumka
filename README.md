@@ -6,6 +6,7 @@
 ## 🔭 I’m currently working on ...
 - [Space Trash](https://cserg.cs.mtu.edu/projects/space_trash/index.html), a game that aims to aid Alzheimers disease research by recreating the Object Hit and Avoid (OHA) task from the KINARM as a downloadable package.
 - A Discord media bot that uploads the newest video detected of a chosen YouTuber into a Discord channel
+- A Natural Language Processing bot for Customer Service that can curate it's generated outputs based on how the customer is feeling at that point (personal research)
 
 ## :computer: Languages I've worked with in the past...
 - Java
