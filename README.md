@@ -6,7 +6,7 @@
 ## 🔭 I’m currently working on ...
 - [Space Trash](https://cserg.cs.mtu.edu/projects/space_trash/index.html), a game that aims to aid Alzheimers disease research by recreating the Object Hit and Avoid (OHA) task from the KINARM as a downloadable package.
 - A Natural Language Processing bot for Customer Service that can curate it's generated outputs based on how the customer is feeling at that point (personal research)
-- Personal Portfolio Website for HTML, PHP, and CSS implementation as well as provide visual aids of what I'm currently working on.
+- [Personal Portfolio Website](https://loganblumka.github.io/loganblumka.com/index.html) for HTML, PHP, and CSS implementation as well as provide visual aids of what I'm currently working on.
 
 ## :computer: Languages I've worked with in the past...
 - Java
